@@ -1,0 +1,10 @@
+# .gitignore
+
+# Ignore generated transcripts
+# transcripts/
+
+# Other standard Python ignores
+__pycache__/
+*.pyc
+venv/
+*.env
